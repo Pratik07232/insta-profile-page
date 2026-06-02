@@ -74,7 +74,7 @@ I am currently learning:
 
 ## 👨‍💻 Author
 
-**Pratik**
+**Pratik Gadekar**
 
 Passionate about Cloud Computing, DevOps, and Continuous Learning 🚀
 
